@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 New branch file. Keep updating master
+=======
+New branch file. Keep updating. yahoo
+>>>>>>> monicabranch
